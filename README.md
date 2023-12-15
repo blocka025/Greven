@@ -1,0 +1,2 @@
+This is a compilation of all the code that I have written for my research in the Greven Group. Most of this code is written by me, some of the thermal simualtion stuff and contactless analysis code was taken from Jack Zwettler and I updated it for my purposes
+Some highlights include FEA simulation of eddy currents in a sample of arbitary geomtery, the control scripts for the probes, and all of the plotting and displaying functions
